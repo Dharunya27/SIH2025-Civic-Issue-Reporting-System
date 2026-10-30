@@ -1,0 +1,21 @@
+# === IDE ===
+.idea/
+*.iml
+.vscode/
+
+# === Java / Maven ===
+SIH_2025_civic_issue_reporting_reporting_system/target/
+*.class
+*.jar
+*.war
+
+# === Node / React ===
+frontend/node_modules/
+frontend/dist/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
